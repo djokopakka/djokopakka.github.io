@@ -1,0 +1,13 @@
+baseURL = "https://djokopakka.github.io/"
+languageCode = "en-us"
+title = "Some Random Thoughts"
+theme = "hugo-kiera"
+pygmentsCodeFences = true
+publishDir = "docs"
+
+[author]
+    name = "Djoko Pakka"
+    github = "djokopakka"
+
+[params]
+    tagline = "from void to /null"
