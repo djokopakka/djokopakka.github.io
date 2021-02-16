@@ -6,9 +6,19 @@
    <description>Recent content on Some Random Thoughts</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
+   <lastBuildDate>Tue, 16 Feb 2021 16:00:00 +0000</lastBuildDate>
    
        <atom:link href="https://djokopakka.github.io/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Hello, World!</title>
+       <link>https://djokopakka.github.io/posts/hello-world/</link>
+       <pubDate>Tue, 16 Feb 2021 16:00:00 +0000</pubDate>
+       
+       <guid>https://djokopakka.github.io/posts/hello-world/</guid>
+       <description>&lt;p&gt;Hello everyone and welcome to my blog. This is an experiment for practicing my English writing, mostly random ideas and maybe some technical stuff. As you may expect this is an alias, a random name from a Richard K. Morgan novel plus a Pali term for barber (well, part of it).&lt;/p&gt;&lt;p&gt;So, for now..&lt;/p&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hello, World!&amp;#39;&lt;/span&gt;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and see you soon.&lt;/p&gt;</description>
+     </item>
    
  </channel>
 </rss>

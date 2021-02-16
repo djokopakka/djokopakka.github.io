@@ -4,14 +4,37 @@
   
   <url>
     <loc>https://djokopakka.github.io/categories/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djokopakka.github.io/tags/hello-world/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djokopakka.github.io/posts/hello-world/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djokopakka.github.io/posts/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djokopakka.github.io/categories/random/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djokopakka.github.io/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djokopakka.github.io/tags/</loc>
+    <lastmod>2021-02-16T16:00:00+00:00</lastmod>
   </url>
   
 </urlset>

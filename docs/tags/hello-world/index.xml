@@ -1,14 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Categories on Some Random Thoughts</title>
-   <link>https://djokopakka.github.io/categories/</link>
-   <description>Recent content in Categories on Some Random Thoughts</description>
+   <title>Hello World on Some Random Thoughts</title>
+   <link>https://djokopakka.github.io/tags/hello-world/</link>
+   <description>Recent content in Hello World on Some Random Thoughts</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    <lastBuildDate>Tue, 16 Feb 2021 16:00:00 +0000</lastBuildDate>
    
-       <atom:link href="https://djokopakka.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://djokopakka.github.io/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
